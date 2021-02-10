@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./scr/Home.js/static/css/main.94d9d93e.chunk.css",
-    "main.js": "./scr/Home.js/static/js/main.27bc316f.chunk.js",
-    "main.js.map": "./scr/Home.js/static/js/main.27bc316f.chunk.js.map",
-    "runtime-main.js": "./scr/Home.js/static/js/runtime-main.1501dbb6.js",
-    "runtime-main.js.map": "./scr/Home.js/static/js/runtime-main.1501dbb6.js.map",
-    "static/css/2.92d02543.chunk.css": "./scr/Home.js/static/css/2.92d02543.chunk.css",
-    "static/js/2.ca3440f5.chunk.js": "./scr/Home.js/static/js/2.ca3440f5.chunk.js",
-    "static/js/2.ca3440f5.chunk.js.map": "./scr/Home.js/static/js/2.ca3440f5.chunk.js.map",
-    "index.html": "./scr/Home.js/index.html",
-    "static/css/2.92d02543.chunk.css.map": "./scr/Home.js/static/css/2.92d02543.chunk.css.map",
-    "static/css/main.94d9d93e.chunk.css.map": "./scr/Home.js/static/css/main.94d9d93e.chunk.css.map",
-    "static/js/2.ca3440f5.chunk.js.LICENSE.txt": "./scr/Home.js/static/js/2.ca3440f5.chunk.js.LICENSE.txt",
-    "static/media/persik.ae9f0072.png": "./scr/Home.js/static/media/persik.ae9f0072.png"
+    "main.css": "./scr/panels/Home.js/static/css/main.94d9d93e.chunk.css",
+    "main.js": "./scr/panels/Home.js/static/js/main.1dd047bc.chunk.js",
+    "main.js.map": "./scr/panels/Home.js/static/js/main.1dd047bc.chunk.js.map",
+    "runtime-main.js": "./scr/panels/Home.js/static/js/runtime-main.a89eca3a.js",
+    "runtime-main.js.map": "./scr/panels/Home.js/static/js/runtime-main.a89eca3a.js.map",
+    "static/css/2.92d02543.chunk.css": "./scr/panels/Home.js/static/css/2.92d02543.chunk.css",
+    "static/js/2.3e9adbf4.chunk.js": "./scr/panels/Home.js/static/js/2.3e9adbf4.chunk.js",
+    "static/js/2.3e9adbf4.chunk.js.map": "./scr/panels/Home.js/static/js/2.3e9adbf4.chunk.js.map",
+    "index.html": "./scr/panels/Home.js/index.html",
+    "static/css/2.92d02543.chunk.css.map": "./scr/panels/Home.js/static/css/2.92d02543.chunk.css.map",
+    "static/css/main.94d9d93e.chunk.css.map": "./scr/panels/Home.js/static/css/main.94d9d93e.chunk.css.map",
+    "static/js/2.3e9adbf4.chunk.js.LICENSE.txt": "./scr/panels/Home.js/static/js/2.3e9adbf4.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "./scr/panels/Home.js/static/media/persik.ae9f0072.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1501dbb6.js",
+    "static/js/runtime-main.a89eca3a.js",
     "static/css/2.92d02543.chunk.css",
-    "static/js/2.ca3440f5.chunk.js",
+    "static/js/2.3e9adbf4.chunk.js",
     "static/css/main.94d9d93e.chunk.css",
-    "static/js/main.27bc316f.chunk.js"
+    "static/js/main.1dd047bc.chunk.js"
   ]
 }
