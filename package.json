@@ -2,7 +2,7 @@
   "name": "standapp2",
   "version": "1.0.0",
   "description": "",
-  "main": "./scr/panels/home.js",
+  "main": "./scr/index.js",
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
     "build": "react-scripts build",
